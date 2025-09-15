@@ -1,4 +1,3 @@
-import React from 'react'
 import icon1 from './assets/close.png'
 import icon2 from './assets/gallery.png'
 import icon3 from './assets/right-arrow.png'
